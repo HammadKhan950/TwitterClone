@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed.xml.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\HAMMAD KHAN\\Downloads\\Twitter\\Twitter\\ParseStarterProject\\src\\main\\res\\drawable\\twitter.png"
+    }
+]
